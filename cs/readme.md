@@ -9,12 +9,15 @@
    - Defining and calling functions.
    - Parameters and return values.
 4. **[Object-Oriented Programming (OOP):](/cs/fundamentals/4-OOP.md)**
-   - Classes and objects.
-   - Inheritance, polymorphism, encapsulation, abstraction.
-5. **Collections:**
+   - [Classes and objects](/cs/fundamentals/4.1-Classes%20and%20Objects.md).
+   - [Inheritance](/cs/fundamentals/4.2-Encapsulation.md)
+   - [polymorphism]
+   - [encapsulation]
+   - [abstraction]
+5. **[Collections:](/cs/fundamentals/5-Collections.md)**
    - Arrays, Lists, Dictionaries.
    - Iterating through collections.
-6. **Exception Handling:**
+6. **[Exception Handling:](/cs/fundamentals/6-Exception%20Handling.md)**
    - Try-catch blocks.
    - Understanding errors.
 
