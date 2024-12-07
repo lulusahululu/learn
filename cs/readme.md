@@ -1,8 +1,8 @@
 ### **Step 1: Core C# Fundamentals**
-1. **[Introduction to Programming:](cs/fundamentals/1-Introduction.md)**
+1. **[Introduction to Programming:](fundamentals/1-Introduction.md)**
    - Variables, data types, and constants.
    - Operators (arithmetic, logical, relational).
-2. **Control Flow:**
+2. [**Control Flow:**](fundamentals/2-ControlFlow.md)
    - If-else statements.
    - Loops (for, while, do-while).
 3. **Functions and Methods:**
