@@ -1,5 +1,5 @@
 ### **Step 1: Core C# Fundamentals**
-1. **Introduction to Programming:**[a relative link](other_file.md)
+1. **[Introduction to Programming:](cs/fundamentals/1-Introduction.md)**
    - Variables, data types, and constants.
    - Operators (arithmetic, logical, relational).
 2. **Control Flow:**
