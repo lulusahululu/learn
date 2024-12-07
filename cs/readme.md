@@ -1,5 +1,3 @@
-Here's a roadmap to learning C# for Unity game development:
-
 ### **Step 1: Core C# Fundamentals**
 1. **Introduction to Programming:**
    - Variables, data types, and constants.
