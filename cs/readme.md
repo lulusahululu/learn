@@ -9,11 +9,11 @@
    - Defining and calling functions.
    - Parameters and return values.
 4. **[Object-Oriented Programming (OOP):](/cs/fundamentals/4-OOP.md)**
-   - [Classes and objects](/cs/fundamentals/4.1-Classes%20and%20Objects.md).
-   - [Inheritance](/cs/fundamentals/4.2-Encapsulation.md)
-   - [polymorphism]
-   - [encapsulation]
-   - [abstraction]
+   - [Classes and objects](/cs/fundamentals/4.1-Classes%20and%20Objects.md)
+   - [encapsulation](/cs/fundamentals/4.2-Encapsulation.md)
+   - [Inheritance](/cs/fundamentals/4.3-Inheritance.md)
+   - [polymorphism](/cs/fundamentals/4.4-Polymorphism.md)
+   - [abstraction](/cs/fundamentals/4.5-Abstraction.md)
 5. **[Collections:](/cs/fundamentals/5-Collections.md)**
    - Arrays, Lists, Dictionaries.
    - Iterating through collections.
