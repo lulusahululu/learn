@@ -48,7 +48,7 @@ obj.DisplayInfo();
 ### **2. Encapsulation**
 Encapsulation ensures that sensitive data is hidden from external access by using **access modifiers** like `private` and `public`.
 
-**What is Encapsulation?**
+### **What is Encapsulation?**
 Encapsulation is a programming technique that involves hiding the implementation details of an object from the outside world, exposing only the necessary information to the outer world. It helps to protect an object's internal state by making it private and only allowing it to be accessed through public methods.
 
 #### **Example**
