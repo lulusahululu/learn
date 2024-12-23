@@ -1,23 +1,22 @@
+Here's a roadmap to learning C# for Unity game development:
+
 ### **Step 1: Core C# Fundamentals**
-1. **[Introduction to Programming:](/cs/fundamentals/1-Introduction.md)**
+1. **Introduction to Programming:**
    - Variables, data types, and constants.
    - Operators (arithmetic, logical, relational).
-2. **[Control Flow:](/cs/fundamentals/2-ControlFlow.md)**
+2. **Control Flow:**
    - If-else statements.
    - Loops (for, while, do-while).
-3. **[Functions and Methods:](/cs/fundamentals/3-Functions.md)**
+3. **Functions and Methods:**
    - Defining and calling functions.
    - Parameters and return values.
-4. **[Object-Oriented Programming (OOP):](/cs/fundamentals/4-OOP.md)**
-   - [Classes and objects](/cs/fundamentals/4.1-Classes%20and%20Objects.md)
-   - [encapsulation](/cs/fundamentals/4.2-Encapsulation.md)
-   - [Inheritance](/cs/fundamentals/4.3-Inheritance.md)
-   - [polymorphism](/cs/fundamentals/4.4-Polymorphism.md)
-   - [abstraction](/cs/fundamentals/4.5-Abstraction.md)
-5. **[Collections:](/cs/fundamentals/5-Collections.md)**
+4. **Object-Oriented Programming (OOP):**
+   - Classes and objects.
+   - Inheritance, polymorphism, encapsulation, abstraction.
+5. **Collections:**
    - Arrays, Lists, Dictionaries.
    - Iterating through collections.
-6. **[Exception Handling:](/cs/fundamentals/6-Exception%20Handling.md)**
+6. **Exception Handling:**
    - Try-catch blocks.
    - Understanding errors.
 
@@ -83,4 +82,3 @@
 3. **Week 5-6:** Intermediate game mechanics.
 4. **Week 7+:** Dive into advanced concepts and project-based learning.
 
-Let me know where you'd like to begin, and we’ll go step by step!
