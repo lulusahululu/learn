@@ -1,0 +1,62 @@
+In TypeScript, you can define **optional** and **default** parameters in functions to make them more flexible and easier to use. Here's a breakdown of both:
+
+---
+
+### ✅ Optional Parameters
+
+You can mark a parameter as **optional** by appending a `?` to its name.
+
+```ts
+function greet(name?: string) {
+  if (name) {
+    console.log(`Hello, ${name}!`);
+  } else {
+    console.log("Hello!");
+  }
+}
+
+greet();         // Hello!
+greet("Alice");  // Hello, Alice!
+```
+
+- Optional parameters must come **after** required parameters.
+
+---
+
+### ✅ Default Parameters
+
+You can assign a **default value** to a parameter. If the caller doesn’t provide that argument, the default value will be used.
+
+```ts
+function greet(name: string = "Guest") {
+  console.log(`Hello, ${name}!`);
+}
+
+greet();         // Hello, Guest!
+greet("Bob");    // Hello, Bob!
+```
+
+- Default parameters can come **after or before** required parameters, but if before, the function needs to handle undefined properly.
+
+---
+
+### 🔄 Combining Optional and Default Parameters
+
+Technically, a parameter with a default value is already optional:
+
+```ts
+function greet(name?: string, greeting: string = "Hello") {
+  console.log(`${greeting}, ${name ?? "Guest"}!`);
+}
+
+greet();                  // Hello, Guest!
+greet("Sam");             // Hello, Sam!
+greet("Sam", "Hi");       // Hi, Sam!
+```
+
+Note:
+- If you combine them, consider placing default params last to avoid confusion.
+
+---
+
+Want an example with arrow functions or something more advanced like rest params or destructuring defaults?
