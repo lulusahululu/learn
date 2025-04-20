@@ -4,7 +4,7 @@
 3. TypeScript Compiler (`tsc`) Basics  
 4. Primitive Types: `string`, `number`, `boolean`  
 5. Arrays and Tuples in TypeScript  
-6. Enums in TypeScript  
+6. Enums in TypeScript  [Link](https://github.com/lulusahululu/learn/blob/main/typescript/beginner/6-Enums-in-TypeScript.md)
 7. Interfaces vs. Type Aliases  
 8. Functions with Type Annotations  
 9. Optional and Default Function Parameters  
